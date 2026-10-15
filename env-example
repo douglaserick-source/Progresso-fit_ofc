@@ -1,0 +1,6 @@
+EMAIL_HOST_USER="youremail" 
+EMAIL_HOST_PASSWORD="yourpassowrd"
+SECRET_KEY='yoursecretkey'
+DEBUG=True
+ALLOWED_HOSTS=127.0.0.1,localhost
+ANTHROPIC_API_KEY=
